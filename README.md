@@ -11,5 +11,5 @@ These images come with `display_errors` enabled by default. For configurations w
 Support for PHP using the PHP-FPM SAPI is also in progress and will be released soon, as cross-version support is still being developed.
 
 # Links
-https://hash-sec.com
-https://hashsec.link
+- https://hash-sec.com
+- https://hashsec.link
